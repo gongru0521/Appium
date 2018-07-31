@@ -1,0 +1,222 @@
+Logger-->DEBUG 2018-07-27 16:29:49235 java.lang.String,0- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_guanggao_cha;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_song;2000;关闭广告按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49239 java.lang.String,4- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_learntouse;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_song;2000;关闭学习页;Android
+Logger-->DEBUG 2018-07-27 16:29:49240 java.lang.String,5- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_top_photo;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_mian_login;2000;点击用户头像进入侧滑栏;Android
+Logger-->DEBUG 2018-07-27 16:29:49242 java.lang.String,7- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_mian_login;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_password_login;2000;进入登录注册页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49243 java.lang.String,8- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_password_login;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_regist;2000;选择密码登录;Android
+Logger-->DEBUG 2018-07-27 16:29:49244 java.lang.String,9- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_phone2;res;click;null;2000;点击输入手机号文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49246 java.lang.String,11- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_phone2;res;edit;null;2000;输入手机号;Android;18638732236
+Logger-->DEBUG 2018-07-27 16:29:49248 java.lang.String,13- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_luru2;res;click;null;2000;点击输入密码文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49249 java.lang.String,14- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_luru2;res;edit;null;2000;输入密码;Android;111111
+Logger-->DEBUG 2018-07-27 16:29:49250 java.lang.String,15- test_funciton_name:readcsv;******LogMessage:null;null;back;null;1000;关闭键盘;Android
+Logger-->DEBUG 2018-07-27 16:29:49251 java.lang.String,16- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/btn_login;res;click;com.itsenpupulai.kuaikuaipaobei:id/iv_guanggao_cha;2000;点击登录按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49253 java.lang.String,18- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_guanggao_cha;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_song;2000;关闭广告按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49254 java.lang.String,19- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_top_photo;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;2000;点击用户头像进入侧滑栏;Android
+Logger-->DEBUG 2018-07-27 16:29:49255 java.lang.String,20- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/my_money;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;进入我的钱包页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49257 java.lang.String,22- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_top_right_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入交易明细消费页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49259 java.lang.String,24- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动消费列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49261 java.lang.String,26- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rb_btn1;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入充值列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49262 java.lang.String,27- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动充值列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49263 java.lang.String,28- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rb_btn2;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入退款列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49264 java.lang.String,29- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动退款列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49266 java.lang.String,31- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rb_btn3;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入其他列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49267 java.lang.String,32- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动其他列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49268 java.lang.String,33- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rb_btn0;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入消费列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49270 java.lang.String,35- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动消费列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49271 java.lang.String,36- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到我的钱包页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49273 java.lang.String,38- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;1000;关闭我的钱包页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49275 java.lang.String,40- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/ll_myorder;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入我的订单页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49276 java.lang.String,41- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动待接单列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49277 java.lang.String,42- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49279 java.lang.String,44- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49280 java.lang.String,45- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_left_back_iv;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49281 java.lang.String,46- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_2;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入待取货列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49282 java.lang.String,47- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动待取货列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49283 java.lang.String,48- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49284 java.lang.String,49- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49285 java.lang.String,50- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_left_back_iv;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49286 java.lang.String,51- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_3;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入配送中列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49287 java.lang.String,52- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动配送中列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49288 java.lang.String,53- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49289 java.lang.String,54- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49290 java.lang.String,55- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_left_back_iv;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49291 java.lang.String,56- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_4;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入待收货列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49292 java.lang.String,57- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动待收货列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49293 java.lang.String,58- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49294 java.lang.String,59- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49295 java.lang.String,60- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_left_back_iv;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49296 java.lang.String,61- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;横向滑动到最后;Android;null;transverse
+Logger-->DEBUG 2018-07-27 16:29:49297 java.lang.String,62- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_5;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入已完成列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49298 java.lang.String,63- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动已完成列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49300 java.lang.String,65- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49301 java.lang.String,66- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49302 java.lang.String,67- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_left_back_iv;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49303 java.lang.String,68- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_6;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入已取消列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49304 java.lang.String,69- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动已取消列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49305 java.lang.String,70- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49306 java.lang.String,71- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49307 java.lang.String,72- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49308 java.lang.String,73- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_right_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;点击搜索订单按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49309 java.lang.String,74- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_ordersn;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;点击输入框;Android
+Logger-->DEBUG 2018-07-27 16:29:49310 java.lang.String,75- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_ordersn;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;输入框中输入订单号;Android;20180723335210
+Logger-->DEBUG 2018-07-27 16:29:49311 java.lang.String,76- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_right_search;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;点击搜索按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49312 java.lang.String,77- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_clear;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;清空之前文本框的信息;Android
+Logger-->DEBUG 2018-07-27 16:29:49313 java.lang.String,78- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_ordersn;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;点击输入框;Android
+Logger-->DEBUG 2018-07-27 16:29:49313 java.lang.String,78- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_ordersn;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;输入框中输入手机号;Android;18638732236
+Logger-->DEBUG 2018-07-27 16:29:49314 java.lang.String,79- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_right_search;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_right_search;1000;点击搜索按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49315 java.lang.String,80- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动搜索订单列表;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49316 java.lang.String,81- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname_fahuo;res;click;com.itsenpupulai.kuaikuaipaobei:id/scroll_view;1000;进入订单详情页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49317 java.lang.String,82- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动详情页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49318 java.lang.String,83- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/top_left_back_iv;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;返回到列表页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49318 java.lang.String,83- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/iv_center;1000;关闭我的订单页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49319 java.lang.String,84- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_top_photo;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;2000;点击用户头像进入侧滑栏;Android
+Logger-->DEBUG 2018-07-27 16:29:49321 java.lang.String,86- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/personal_come;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;进入配送员位置查询页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49322 java.lang.String,87- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_ordersingn;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入框;Android
+Logger-->DEBUG 2018-07-27 16:29:49323 java.lang.String,88- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_ordersingn;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;输入框中输入订单号;Android;20180723335210
+Logger-->DEBUG 2018-07-27 16:29:49324 java.lang.String,89- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/btn_config;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击确定按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49325 java.lang.String,90- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;返回到配送员位置查询页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49326 java.lang.String,91- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;2000;关闭配送员位置查询页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49327 java.lang.String,92- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_my_store;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;进入我的收藏地址页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49328 java.lang.String,93- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动收藏地址列表页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49328 java.lang.String,93- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_top_right_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击添加地址;Android
+Logger-->DEBUG 2018-07-27 16:29:49329 java.lang.String,94- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_store_address;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入地址文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49330 java.lang.String,95- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_loctionname;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;添加地址页面点击输入地址文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49331 java.lang.String,96- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_myloction;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入地址文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49332 java.lang.String,97- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_myloction;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;输入地址文本框;Android;1
+Logger-->DEBUG 2018-07-27 16:29:49343 java.lang.String,108- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_content;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;从列表中选择第一个地址;Android
+Logger-->DEBUG 2018-07-27 16:29:49344 java.lang.String,109- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_floornumber;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入详细地址文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49345 java.lang.String,110- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_floornumber;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入地址文本框;Android;18号楼A座7层123
+Logger-->DEBUG 2018-07-27 16:29:49346 java.lang.String,111- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_configselect;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击确定按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49347 java.lang.String,112- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_store_floor_number;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入详细地址文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49348 java.lang.String,113- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_store_floor_number;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入地址文本框;Android;123321addresstest
+Logger-->DEBUG 2018-07-27 16:29:49349 java.lang.String,114- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_store_phone;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入手机号文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49349 java.lang.String,114- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_store_phone;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;输入地址文本框;Android;18638732236
+Logger-->DEBUG 2018-07-27 16:29:49350 java.lang.String,115- test_funciton_name:readcsv;******LogMessage:null;null;back;null;1000;关闭键盘;Android
+Logger-->DEBUG 2018-07-27 16:29:49351 java.lang.String,116- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_config;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击确定按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49352 java.lang.String,117- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/iv_center;1000;关闭收藏地址页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49353 java.lang.String,118- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_top_photo;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;2000;点击用户头像进入侧滑栏;Android
+Logger-->DEBUG 2018-07-27 16:29:49354 java.lang.String,119- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/ll_remark;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;进入推荐奖励页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49356 java.lang.String,121- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;1000;关闭推荐奖励页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49357 java.lang.String,122- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/ll_jianyifankui;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;进入在线客服页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49358 java.lang.String,123- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;2000;关闭在线客服页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49359 java.lang.String,124- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_blacklist;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;进入黑名单页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49360 java.lang.String,125- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;滑动黑名单列表页面;Android;null;vertical
+Logger-->DEBUG 2018-07-27 16:29:49360 java.lang.String,125- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_right_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;2000;点击添加按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49361 java.lang.String,126- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_expid_phone;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击输入配送员手机号文本框;Android
+Logger-->DEBUG 2018-07-27 16:29:49362 java.lang.String,127- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/et_expid_phone;res;edit;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;输入配送员手机号文本框;Android;18638732236
+Logger-->DEBUG 2018-07-27 16:29:49363 java.lang.String,128- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_change_phone_search;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击搜索按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49364 java.lang.String,129- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/rl_add_blacklist;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;添加配送员黑名单账号;Android
+Logger-->DEBUG 2018-07-27 16:29:49364 java.lang.String,129- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/tv_yes;res;click;null;1000;点击确定按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49365 java.lang.String,130- test_funciton_name:readcsv;******LogMessage:null;null;scroll;null;2000;横向滑动账号;Android;null;transverse
+Logger-->DEBUG 2018-07-27 16:29:49366 java.lang.String,131- test_funciton_name:readcsv;******LogMessage:android.widget.ImageView;classname;click;null;1000;点击删除账号按钮;Android
+Logger-->DEBUG 2018-07-27 16:29:49392 java.lang.String,157- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;1000;关闭黑名单页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49393 java.lang.String,158- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;进入设置页面;Android
+Logger-->DEBUG 2018-07-27 16:29:49393 java.lang.String,158- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/phone_rl;res;click;com.itsenpupulai.kuaikuaipaobei:id/top_center;1000;点击手机号;Android
+Logger-->DEBUG 2018-07-27 16:29:49394 java.lang.String,159- test_funciton_name:readcsv;******LogMessage:com.itsenpupulai.kuaikuaipaobei:id/iv_top_left_public;res;click;com.itsenpupulai.kuaikuaipaobei:id/ll_personal_setting;1000;关闭更改手机号页面;Android
+Logger-->DEBUG 2018-07-27 16:30:1990 java.lang.String,29855- test_funciton_name:clickaction;******LogMessage:Test Result:click;关闭广告按钮不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:30:47887 java.lang.String,58652- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭学习页;PASS;2018-07-27 16:30:30
+Logger-->DEBUG 2018-07-27 16:30:56136 java.lang.String,66901- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击用户头像进入侧滑栏;PASS;2018-07-27 16:30:56
+Logger-->DEBUG 2018-07-27 16:31:04478 java.lang.String,75243- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入登录注册页面;PASS;2018-07-27 16:31:04
+Logger-->DEBUG 2018-07-27 16:31:13305 java.lang.String,84070- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;选择密码登录;PASS;2018-07-27 16:31:13
+Logger-->DEBUG 2018-07-27 16:31:22494 java.lang.String,93259- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入手机号文本框;未设置断言_PASS;2018-07-27 16:31:22
+Logger-->DEBUG 2018-07-27 16:31:33959 java.lang.String,104724- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入手机号;未设置断言_PASS;2018-07-27 16:31:33
+Logger-->DEBUG 2018-07-27 16:31:42164 java.lang.String,112929- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入密码文本框;未设置断言_PASS;2018-07-27 16:31:42
+Logger-->DEBUG 2018-07-27 16:31:53501 java.lang.String,124266- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入密码;未设置断言_PASS;2018-07-27 16:31:53
+Logger-->DEBUG 2018-07-27 16:32:00121 java.lang.String,130886- test_funciton_name:testresultandwri;******LogMessage:Test Result:back;关闭键盘;未设置断言_PASS;2018-07-27 16:32:00
+Logger-->DEBUG 2018-07-27 16:32:09445 java.lang.String,140210- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击登录按钮;PASS;2018-07-27 16:32:08
+Logger-->DEBUG 2018-07-27 16:32:18202 java.lang.String,148967- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭广告按钮;PASS;2018-07-27 16:32:18
+Logger-->DEBUG 2018-07-27 16:32:26799 java.lang.String,157564- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击用户头像进入侧滑栏;PASS;2018-07-27 16:32:26
+Logger-->DEBUG 2018-07-27 16:32:36488 java.lang.String,167253- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入我的钱包页面;PASS;2018-07-27 16:32:36
+Logger-->DEBUG 2018-07-27 16:32:45376 java.lang.String,176141- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入交易明细消费页面;PASS;2018-07-27 16:32:45
+Logger-->DEBUG 2018-07-27 16:32:46214 java.lang.String,176979- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动消费列表;未设置断言_PASS;2018-07-27 16:32:46
+Logger-->DEBUG 2018-07-27 16:32:54623 java.lang.String,185388- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入充值列表页面;PASS;2018-07-27 16:32:54
+Logger-->DEBUG 2018-07-27 16:32:55442 java.lang.String,186207- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动充值列表;未设置断言_PASS;2018-07-27 16:32:55
+Logger-->DEBUG 2018-07-27 16:33:0470 java.lang.String,194835- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入退款列表页面;PASS;2018-07-27 16:33:03
+Logger-->DEBUG 2018-07-27 16:33:04956 java.lang.String,195721- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动退款列表;未设置断言_PASS;2018-07-27 16:33:04
+Logger-->DEBUG 2018-07-27 16:33:13458 java.lang.String,204223- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入其他列表页面;PASS;2018-07-27 16:33:13
+Logger-->DEBUG 2018-07-27 16:33:14218 java.lang.String,204983- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动其他列表;未设置断言_PASS;2018-07-27 16:33:14
+Logger-->DEBUG 2018-07-27 16:33:22570 java.lang.String,213335- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入消费列表页面;PASS;2018-07-27 16:33:22
+Logger-->DEBUG 2018-07-27 16:33:23364 java.lang.String,214129- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动消费列表;未设置断言_PASS;2018-07-27 16:33:23
+Logger-->DEBUG 2018-07-27 16:33:31797 java.lang.String,222562- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到我的钱包页面;PASS;2018-07-27 16:33:31
+Logger-->DEBUG 2018-07-27 16:33:40443 java.lang.String,231208- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭我的钱包页面;PASS;2018-07-27 16:33:40
+Logger-->DEBUG 2018-07-27 16:33:49566 java.lang.String,240331- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入我的订单页面;PASS;2018-07-27 16:33:49
+Logger-->DEBUG 2018-07-27 16:33:50655 java.lang.String,241420- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动待接单列表;未设置断言_PASS;2018-07-27 16:33:50
+Logger-->DEBUG 2018-07-27 16:33:59751 java.lang.String,250516- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:33:58
+Logger-->DEBUG 2018-07-27 16:34:00599 java.lang.String,251364- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:34:00
+Logger-->DEBUG 2018-07-27 16:34:11139 java.lang.String,261904- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:34:10
+Logger-->DEBUG 2018-07-27 16:34:19725 java.lang.String,270490- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入待取货列表页面;PASS;2018-07-27 16:34:19
+Logger-->DEBUG 2018-07-27 16:34:20834 java.lang.String,271599- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动待取货列表;未设置断言_PASS;2018-07-27 16:34:20
+Logger-->DEBUG 2018-07-27 16:34:31191 java.lang.String,281956- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:34:29
+Logger-->DEBUG 2018-07-27 16:34:3228 java.lang.String,282793- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:34:32
+Logger-->DEBUG 2018-07-27 16:34:42662 java.lang.String,293427- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:34:42
+Logger-->DEBUG 2018-07-27 16:34:51144 java.lang.String,301909- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入配送中列表页面;PASS;2018-07-27 16:34:50
+Logger-->DEBUG 2018-07-27 16:34:51923 java.lang.String,302688- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动配送中列表;未设置断言_PASS;2018-07-27 16:34:51
+Logger-->DEBUG 2018-07-27 16:35:01698 java.lang.String,312463- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:35:00
+Logger-->DEBUG 2018-07-27 16:35:02419 java.lang.String,313184- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:35:02
+Logger-->DEBUG 2018-07-27 16:35:11136 java.lang.String,321901- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:35:10
+Logger-->DEBUG 2018-07-27 16:35:19881 java.lang.String,330646- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入待收货列表页面;PASS;2018-07-27 16:35:19
+Logger-->DEBUG 2018-07-27 16:35:20981 java.lang.String,331746- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动待收货列表;未设置断言_PASS;2018-07-27 16:35:20
+Logger-->DEBUG 2018-07-27 16:35:31157 java.lang.String,341922- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:35:29
+Logger-->DEBUG 2018-07-27 16:35:31931 java.lang.String,342696- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:35:31
+Logger-->DEBUG 2018-07-27 16:35:42668 java.lang.String,353433- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:35:42
+Logger-->DEBUG 2018-07-27 16:35:42911 java.lang.String,353676- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;横向滑动到最后;未设置断言_PASS;2018-07-27 16:35:42
+Logger-->DEBUG 2018-07-27 16:35:52301 java.lang.String,363066- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入已完成列表页面;PASS;2018-07-27 16:35:51
+Logger-->DEBUG 2018-07-27 16:35:53427 java.lang.String,364192- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动已完成列表;未设置断言_PASS;2018-07-27 16:35:53
+Logger-->DEBUG 2018-07-27 16:36:0437 java.lang.String,374802- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:36:01
+Logger-->DEBUG 2018-07-27 16:36:04900 java.lang.String,375665- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:36:04
+Logger-->DEBUG 2018-07-27 16:36:1532 java.lang.String,385797- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:36:15
+Logger-->DEBUG 2018-07-27 16:36:23946 java.lang.String,394711- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入已取消列表页面;PASS;2018-07-27 16:36:23
+Logger-->DEBUG 2018-07-27 16:36:24990 java.lang.String,395755- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动已取消列表;未设置断言_PASS;2018-07-27 16:36:24
+Logger-->DEBUG 2018-07-27 16:36:33566 java.lang.String,404331- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:36:33
+Logger-->DEBUG 2018-07-27 16:36:34341 java.lang.String,405106- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:36:34
+Logger-->DEBUG 2018-07-27 16:36:42661 java.lang.String,413426- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:36:42
+Logger-->DEBUG 2018-07-27 16:36:51136 java.lang.String,421901- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击搜索订单按钮;PASS;2018-07-27 16:36:51
+Logger-->DEBUG 2018-07-27 16:37:02639 java.lang.String,433404- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入框;PASS;2018-07-27 16:37:02
+Logger-->DEBUG 2018-07-27 16:37:13636 java.lang.String,444401- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入框中输入订单号;PASS;2018-07-27 16:37:13
+Logger-->DEBUG 2018-07-27 16:37:22127 java.lang.String,452892- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击搜索按钮;PASS;2018-07-27 16:37:21
+Logger-->DEBUG 2018-07-27 16:37:30379 java.lang.String,461144- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;清空之前文本框的信息;PASS;2018-07-27 16:37:30
+Logger-->DEBUG 2018-07-27 16:37:38642 java.lang.String,469407- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入框;PASS;2018-07-27 16:37:38
+Logger-->DEBUG 2018-07-27 16:37:49768 java.lang.String,480533- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入框中输入手机号;PASS;2018-07-27 16:37:49
+Logger-->DEBUG 2018-07-27 16:37:57980 java.lang.String,488745- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击搜索按钮;PASS;2018-07-27 16:37:57
+Logger-->DEBUG 2018-07-27 16:37:58964 java.lang.String,489729- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动搜索订单列表;未设置断言_PASS;2018-07-27 16:37:58
+Logger-->DEBUG 2018-07-27 16:38:08541 java.lang.String,499306- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入订单详情页面;PASS;2018-07-27 16:38:07
+Logger-->DEBUG 2018-07-27 16:38:09251 java.lang.String,500016- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动详情页面;未设置断言_PASS;2018-07-27 16:38:09
+Logger-->DEBUG 2018-07-27 16:38:19215 java.lang.String,509980- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到列表页面;PASS;2018-07-27 16:38:19
+Logger-->DEBUG 2018-07-27 16:38:28983 java.lang.String,519748- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭我的订单页面;PASS;2018-07-27 16:38:28
+Logger-->DEBUG 2018-07-27 16:38:37750 java.lang.String,528515- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击用户头像进入侧滑栏;PASS;2018-07-27 16:38:37
+Logger-->DEBUG 2018-07-27 16:38:46226 java.lang.String,536991- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入配送员位置查询页面;PASS;2018-07-27 16:38:46
+Logger-->DEBUG 2018-07-27 16:38:55252 java.lang.String,546017- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入框;PASS;2018-07-27 16:38:55
+Logger-->DEBUG 2018-07-27 16:39:06588 java.lang.String,557353- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入框中输入订单号;PASS;2018-07-27 16:39:06
+Logger-->DEBUG 2018-07-27 16:39:1520 java.lang.String,565785- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击确定按钮;PASS;2018-07-27 16:39:15
+Logger-->DEBUG 2018-07-27 16:39:23300 java.lang.String,574065- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;返回到配送员位置查询页面;PASS;2018-07-27 16:39:23
+Logger-->DEBUG 2018-07-27 16:39:32649 java.lang.String,583414- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭配送员位置查询页面;PASS;2018-07-27 16:39:32
+Logger-->DEBUG 2018-07-27 16:39:41226 java.lang.String,591991- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;进入我的收藏地址页面;PASS;2018-07-27 16:39:41
+Logger-->DEBUG 2018-07-27 16:39:41983 java.lang.String,592748- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动收藏地址列表页面;未设置断言_PASS;2018-07-27 16:39:41
+Logger-->DEBUG 2018-07-27 16:39:50388 java.lang.String,601153- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击添加地址;PASS;2018-07-27 16:39:50
+Logger-->DEBUG 2018-07-27 16:39:59442 java.lang.String,610207- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入地址文本框;PASS;2018-07-27 16:39:59
+Logger-->DEBUG 2018-07-27 16:40:08331 java.lang.String,619096- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;添加地址页面点击输入地址文本框;PASS;2018-07-27 16:40:08
+Logger-->DEBUG 2018-07-27 16:40:19492 java.lang.String,630257- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入地址文本框;PASS;2018-07-27 16:40:19
+Logger-->DEBUG 2018-07-27 16:40:31326 java.lang.String,642091- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入地址文本框;PASS;2018-07-27 16:40:30
+Logger-->DEBUG 2018-07-27 16:40:42815 java.lang.String,653580- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;从列表中选择第一个地址;PASS;2018-07-27 16:40:42
+Logger-->DEBUG 2018-07-27 16:40:51174 java.lang.String,661939- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入详细地址文本框;PASS;2018-07-27 16:40:51
+Logger-->DEBUG 2018-07-27 16:41:02857 java.lang.String,673622- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;点击输入地址文本框;PASS;2018-07-27 16:41:02
+Logger-->DEBUG 2018-07-27 16:41:11249 java.lang.String,682014- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击确定按钮;PASS;2018-07-27 16:41:11
+Logger-->DEBUG 2018-07-27 16:41:20185 java.lang.String,690950- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入详细地址文本框;PASS;2018-07-27 16:41:20
+Logger-->DEBUG 2018-07-27 16:41:31203 java.lang.String,701968- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;点击输入地址文本框;PASS;2018-07-27 16:41:31
+Logger-->DEBUG 2018-07-27 16:41:39415 java.lang.String,710180- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击输入手机号文本框;PASS;2018-07-27 16:41:39
+Logger-->DEBUG 2018-07-27 16:41:50439 java.lang.String,721204- test_funciton_name:testresultandwri;******LogMessage:Test Result:edit;输入地址文本框;PASS;2018-07-27 16:41:50
+Logger-->DEBUG 2018-07-27 16:41:57311 java.lang.String,728076- test_funciton_name:testresultandwri;******LogMessage:Test Result:back;关闭键盘;未设置断言_PASS;2018-07-27 16:41:57
+Logger-->DEBUG 2018-07-27 16:42:05521 java.lang.String,736286- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;点击确定按钮;PASS;2018-07-27 16:42:05
+Logger-->DEBUG 2018-07-27 16:42:3884 java.lang.String,768849- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭收藏地址页面;FAILED;2018-07-27 16:42:15
+Logger-->DEBUG 2018-07-27 16:43:06362 java.lang.String,797127- test_funciton_name:clickaction;******LogMessage:Test Result:click;点击用户头像进入侧滑栏不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:43:34637 java.lang.String,825402- test_funciton_name:clickaction;******LogMessage:Test Result:click;进入推荐奖励页面不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:44:06930 java.lang.String,857695- test_funciton_name:testresultandwri;******LogMessage:Test Result:click;关闭推荐奖励页面;FAILED;2018-07-27 16:43:43
+Logger-->DEBUG 2018-07-27 16:44:36142 java.lang.String,886907- test_funciton_name:clickaction;******LogMessage:Test Result:click;进入在线客服页面不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:45:05184 java.lang.String,915949- test_funciton_name:clickaction;******LogMessage:Test Result:click;关闭在线客服页面不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:45:34592 java.lang.String,945357- test_funciton_name:clickaction;******LogMessage:Test Result:click;进入黑名单页面不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:45:35610 java.lang.String,946375- test_funciton_name:testresultandwri;******LogMessage:Test Result:scroll;滑动黑名单列表页面;未设置断言_PASS;2018-07-27 16:45:35
+Logger-->DEBUG 2018-07-27 16:46:04576 java.lang.String,975341- test_funciton_name:clickaction;******LogMessage:Test Result:click;点击添加按钮不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:46:33531 java.lang.String,1004296- test_funciton_name:clickaction;******LogMessage:Test Result:click;点击输入配送员手机号文本框不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:47:01691 java.lang.String,1032456- test_funciton_name:clickaction;******LogMessage:Test Result:edit;输入配送员手机号文本框不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:47:31808 java.lang.String,1062573- test_funciton_name:clickaction;******LogMessage:Test Result:click;点击搜索按钮不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:48:0367 java.lang.String,1093832- test_funciton_name:clickaction;******LogMessage:Test Result:click;添加配送员黑名单账号不存在;FAIL;2018-07-27 16:29:21
+Logger-->DEBUG 2018-07-27 16:48:33512 java.lang.String,1124277- test_funciton_name:clickaction;******LogMessage:Test Result:click;点击确定按钮不存在;FAIL;2018-07-27 16:29:21

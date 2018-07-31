@@ -1,0 +1,229 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.test.PeisongAppium</groupId>
+  <artifactId>PeisongUiAppium</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <!-- maven 参数配置，这里引用不同的testng.xml -->
+
+	<properties>
+	
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	
+	<xmlFileName>testng.xml</xmlFileName>
+	
+	</properties>
+  
+  
+  
+  <!-- jar -->
+<dependencies>
+      <dependency>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.1</version>
+      </dependency>
+      
+      <dependency>
+          <groupId>org.testng</groupId>
+          <artifactId>testng</artifactId>
+          <version>6.8</version>
+      </dependency>
+      <!-- reportng 关联testNG -->
+       <dependency>
+          <groupId>org.uncommons</groupId>
+          <artifactId>reportng</artifactId>
+          <version>1.1.4</version>
+          
+          <!-- https://mvnrepository.com/artifact/uk.gov.gchq.gaffer/bitmap-library -->
+		<dependency>
+		    <groupId>uk.gov.gchq.gaffer</groupId>
+		    <artifactId>bitmap-library</artifactId>
+		    <version>1.6.0-RC1</version>
+		</dependency>
+          
+          <!-- 踢出依赖关系 -->
+          <!--  
+          <exclusions>
+
+				<exclusion>
+				
+				<groupId>org.testng</groupId>
+				
+				<artifactId>testng</artifactId>
+				
+				</exclusion>
+			
+		 </exclusions>
+		 
+        -->  
+      </dependency>
+      
+       <dependency>
+          <groupId>log4j</groupId>
+          <artifactId>log4j</artifactId>
+          <version>1.2.17</version> 
+           
+           
+       </dependency>
+       <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-csv -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-csv</artifactId>
+		    <version>1.5</version>
+		</dependency>
+       
+       
+       <!-- 依赖Guice -->
+
+		<dependency>
+		
+		<groupId>com.google.inject</groupId>
+			
+			<artifactId>guice</artifactId>
+			
+			<version>4.0</version>
+			
+			<scope>test</scope>
+			
+		</dependency>
+		
+		<dependency>
+			
+			<groupId>velocity</groupId>
+			
+			<artifactId>velocity-dep</artifactId>
+			
+			<version>1.4</version>
+		
+		</dependency>
+		<!-- 添加appium seleniumdriver等jar依赖 -->
+		
+		
+		<dependency>
+		    <groupId>io.appium</groupId>
+		    <artifactId>java-client</artifactId>
+		    <version>6.1.0</version>
+		</dependency>
+		
+	<!--  
+		<dependency>	  
+		    <groupId>org.seleniumhq.selenium</groupId>
+		    <artifactId>selenium-server-standalone</artifactId>
+		    <version>2.53.0</version>
+		</dependency>
+	-->
+		<dependency>
+		    <groupId>org.seleniumhq.selenium</groupId>
+		    <artifactId>selenium-server</artifactId>
+		    <version>2.52.0</version>
+		</dependency>
+		
+		<dependency>
+             <groupId>ch.qos.logback</groupId>
+             <artifactId>logback-classic</artifactId>
+             <version>1.1.2</version>
+        </dependency>
+        <dependency>
+           <groupId>com.google.guava</groupId>
+           <artifactId>guava</artifactId>
+           <version>22.0</version>
+  		  </dependency>
+		
+		
+		
+		<!-- 添加插件 关联testNg.xml -->
+		<build>
+
+				<plugins>
+				
+					<plugin>
+					
+						<groupId>org.apache.maven.plugins</groupId>
+						
+						<artifactId>maven-surefire-plugin</artifactId>
+						
+						<version>2.17</version>
+						
+						<configuration>
+						
+						<suiteXmlFiles>
+						
+						<suiteXmlFile>res/testng.xml</suiteXmlFile>
+						
+						</suiteXmlFiles>
+						
+						</configuration>
+					
+					</plugin>
+				
+				 
+				
+				<!-- 添加插件,添加ReportNg的监听器，修改最后的TestNg的报告 -->
+				
+				
+				<plugin>
+				
+					<groupId>org.apache.maven.plugins</groupId>
+					
+					<artifactId>maven-surefire-plugin</artifactId>
+					
+					<version>2.5</version>
+					
+					<configuration>
+					
+					<properties>
+					
+					<property>
+					
+					<name>usedefaultlisteners</name>
+					
+					<value>false</value>
+					
+					</property>
+					
+					<property>
+					
+					<name>listener</name>
+					
+					<value>org.uncommons.reportng.HTMLReporter,
+					       org.uncommons.reportng.JUnitXMLReporter</value>
+					
+					</property>
+					
+					</properties>
+					
+					<workingDirectory>target/</workingDirectory>
+					
+					<forkMode>always</forkMode>
+					
+					</configuration>
+		
+	     		</plugin>
+	
+				</plugins>
+				
+				<!-- 添加监听，错误的信息系保存成图片 -->
+				<!--  
+				
+				<listeners>
+				    
+				    <listener class-name="com.test.util.TakeScreenShot">
+				               
+				        
+				    </listener>
+				    
+				    
+				</listeners>
+				-->
+				
+				
+				
+	</build>
+      
+ </dependencies>
+  
+
+  
+  
+</project>

@@ -1,0 +1,13 @@
+提供元素信息0;哪种元素(text/res/classname/xpath)1;动作信息(scroll/click/edit/back/webview/androidmode)2;断言信息判断3;停留时间(毫秒)4;用例名称5;WEBVIEW/Android6;edit_content7;横向或纵向滑动8(transverse/vertical)
+com.itsenpupulai.kuaikuaipaobei:id/iv_guanggao_cha;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_song;2000;关闭广告按钮;Android
+com.itsenpupulai.kuaikuaipaobei:id/tv_learntouse;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_song;2000;关闭学习页;Android
+com.itsenpupulai.kuaikuaipaobei:id/rl_top_photo;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_mian_login;2000;点击用户头像进入侧滑栏;Android
+com.itsenpupulai.kuaikuaipaobei:id/tv_mian_login;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_password_login;2000;进入登录注册页面;Android
+com.itsenpupulai.kuaikuaipaobei:id/tv_password_login;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_regist;2000;选择密码登录;Android
+com.itsenpupulai.kuaikuaipaobei:id/et_phone2;res;click;null;2000;点击输入手机号文本框;Android
+com.itsenpupulai.kuaikuaipaobei:id/et_phone2;res;edit;null;2000;输入手机号;Android;18638732236
+com.itsenpupulai.kuaikuaipaobei:id/et_luru2;res;click;null;2000;点击输入密码文本框;Android
+com.itsenpupulai.kuaikuaipaobei:id/et_luru2;res;edit;null;2000;输入密码;Android;111111
+null;null;back;null;1000;关闭键盘;Android
+com.itsenpupulai.kuaikuaipaobei:id/btn_login;res;click;com.itsenpupulai.kuaikuaipaobei:id/iv_guanggao_cha;2000;点击登录按钮;Android
+com.itsenpupulai.kuaikuaipaobei:id/iv_guanggao_cha;res;click;com.itsenpupulai.kuaikuaipaobei:id/tv_song;2000;关闭广告按钮;Android
